@@ -1,16 +1,3 @@
-# chatbot_beras
+Rice shop chatbot is an android application made with flutter, this application is made to help provide information about products sold at rice shops, this chatbot itself is made with the help of the dialogflow platform.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The build of project can be show in: [Chatbot Toko Beras](https://github.com/reaperizy/chatbot-toko-beras.git)
